@@ -86,7 +86,6 @@
      font-size: 40px;
  }
 
- /* Padding */
  .py-1 {
      padding: 10px 0;
  }
@@ -99,7 +98,6 @@
      padding: 30px 0;
  }
 
- /* Navbar */
  #navbar {
      background: #333;
      color: #fff;
@@ -135,8 +133,6 @@
      background: #444;
      color: #f7c08a;
  }
-
- /* showcase */
 
  #showcase {
      background-image: url('../../public/img/hotel1.jpg');
@@ -189,7 +185,6 @@
      padding-bottom: 30px;
  }
 
- /* Features */
  .box {
      float: left;
      widows: 33.5%;
@@ -201,7 +196,6 @@
      margin-bottom: 10px;
  }
 
- /* About Info */
  #about-info .info-right {
      float: right;
      width: 50%;
